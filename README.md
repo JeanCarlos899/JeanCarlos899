@@ -2,7 +2,7 @@
 
 > 2º Ano ensino médio com técnico em informática para internet.
 
-🔭 Atualmente trabalhando no projeto da Confeitaria Paulistana.
+🔭 Atualmente trabalhando no projeto Confeitaria Paulistana.
 
 ----
 
@@ -22,5 +22,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeancarlos899&show_icons=true&theme=dracula)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancarlos899&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
