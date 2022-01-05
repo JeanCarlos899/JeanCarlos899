@@ -1,4 +1,4 @@
-## Olá👋, meu nome é <strong>Jean!</strong>
+## Olá, meu nome é <strong>Jean!</strong>👋
 
 > 2º Ano ensino médio com técnico em informática para internet.
 
