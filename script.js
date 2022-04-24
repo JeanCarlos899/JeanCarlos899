@@ -3,6 +3,8 @@
 const findFilm = async () => {
   
     const film = document.getElementById("boxText").value;
+
+    console.log(film);
    
     if (film.length > 0) {
         document.getElementById("filmTitle").innerHTML = `<div class="c-loader"></div>`;
