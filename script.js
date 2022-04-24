@@ -67,5 +67,4 @@ function insertFilm(filmImage, filmTitle, filmYear, filmRating, filmDescription,
     } else {
         document.getElementById("escritores").innerHTML = "";
     }
-
 }
