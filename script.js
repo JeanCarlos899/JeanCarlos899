@@ -4,7 +4,7 @@ const findFilm = async () => {
   
     const film = document.getElementById("boxText").value;
 
-    console.log(film);
+    console.log("FUNCIONA MEU FI")
    
     if (film.length > 0) {
         document.getElementById("filmTitle").innerHTML = `<div class="c-loader"></div>`;
