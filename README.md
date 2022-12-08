@@ -2,7 +2,7 @@
 
 > 3º ano do ensino médio com técnico integrado em informática para internet.
 
-🔭 Atualmente trabalhando no projeto Confeitaria Paulistana.
+🔭 Atualmente trabalhando no projeto Elaborador de Provas
 
 ----
 
