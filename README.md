@@ -24,6 +24,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancarlos899&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⭐ Informações sobre minha conta GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielrodri87&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanCarlos899&show_icons=true&theme=dracula)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrodri87&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos899&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
