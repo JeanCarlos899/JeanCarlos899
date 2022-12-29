@@ -15,13 +15,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
 
-
 ---
 
-## ⭐ Informações sobre minha conta GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeancarlos899&show_icons=true&theme=dracula)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancarlos899&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⭐ Informações sobre minha conta GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanCarlos899&show_icons=true&theme=dracula)
