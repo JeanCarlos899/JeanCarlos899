@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Jean!</strong>👋
 
-> 3º ano do ensino médio com técnico integrado em informática para internet.
+> Ténico em Informática para Internet, graduando em Análise e Desenvolvimento de Sistemas
 
 🔭 Atualmente trabalhando no projeto Elaborador de Provas
 
