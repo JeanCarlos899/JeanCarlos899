@@ -17,10 +17,7 @@
 <code><img height="32" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/linux.gif" alt="Linux"/></code>
 
-
-
 ---
-
 
 ## ⭐ Informações sobre minha conta GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanCarlos899&show_icons=true&theme=dracula)
