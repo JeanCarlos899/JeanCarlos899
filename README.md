@@ -2,7 +2,7 @@
 
 > Ténico em Informática para Internet, graduando em Análise e Desenvolvimento de Sistemas
 
-🔭 Atualmente trabalhando no projeto Elaborador de Provas
+🔭 Atualmente trabalhando no projeto: Gestor de Finanças
 
 ----
 
