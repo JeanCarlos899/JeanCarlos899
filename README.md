@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Jean!</strong>👋
 
-> Ténico em Informática para Internet, graduando em Análise e Desenvolvimento de Sistemas
+> Graduando em Análise e Desenvolvimento de Sistemas | Ténico em Informática para Internet
 
 🔭 Atualmente estudando a linguagem de programação C e Java
 
