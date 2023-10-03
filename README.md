@@ -10,7 +10,7 @@
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,js,java,c,django,linux,git,bootstrap,html,css,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,js,java,c,django,dart,flutter,linux,git,bootstrap,html,css,vscode)](https://skills.thijs.gg)
 
 ---
 
