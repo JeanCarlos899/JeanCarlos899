@@ -6,6 +6,8 @@
 
 ----
 
+[![wakatime](https://wakatime.com/badge/user/e8d6bcdb-f00a-492e-b7a5-96c6224ccf8a.svg)](https://wakatime.com/@e8d6bcdb-f00a-492e-b7a5-96c6224ccf8a)
+
 ## 🚀 Minhas Skills
 
 [![My Skills](https://skills.thijs.gg/icons?i=python,js,java,c,django,linux,git,bootstrap,html,css,vscode)](https://skills.thijs.gg)
