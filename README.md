@@ -1,13 +1,16 @@
 ## Olá, meu nome é <strong>Jean!</strong>👋
 
-> Graduando em Análise e Desenvolvimento de Sistemas
-> Ténico em Informática para Internet
+> Graduando em Análise e Desenvolvimento de Sistemas - IFPI
+
+> Ténico em Informática para Internet - IFPI
 
 🔭 Atualmente estudando desenvolvimento mobile com Flutter
 
 ----
 
 [![wakatime](https://wakatime.com/badge/user/e8d6bcdb-f00a-492e-b7a5-96c6224ccf8a.svg)](https://wakatime.com/@e8d6bcdb-f00a-492e-b7a5-96c6224ccf8a)
+
+----
 
 ## 🚀 Tecnologias que conheço
 
