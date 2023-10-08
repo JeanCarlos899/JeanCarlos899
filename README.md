@@ -1,10 +1,10 @@
-## Olá, meu nome é <strong>Jean!</strong>👋
+# Hello, my name is **Jean!** 👋
 
-> Graduando em Análise e Desenvolvimento de Sistemas - IFPI
+> Undergraduate student in Analysis and Systems Development - IFPI
 
-> Ténico em Informática para Internet - IFPI
+> Technician in Internet Computing - IFPI
 
-🔭 Atualmente estudando desenvolvimento mobile com Flutter
+🔭 Currently studying mobile development with Flutter
 
 ----
 
@@ -12,17 +12,17 @@
 
 ----
 
-## 🚀 Tecnologias que conheço
+## 🚀 Technologies
 
 [![My Skills](https://skills.thijs.gg/icons?i=python,js,java,c,django,dart,flutter,linux,git,bootstrap,html,css,vscode)](https://skills.thijs.gg)
 
 ----
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub Account
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos899&show_icons=true&count_private-true&hide_border=true&title_color=596087&icon_color=596087&text_color=ffffff&bg_color=0d1117" alt=Jean Carlos Github Stats" />
-<img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos899&layout=compact&hide_border=true&title_color=596087&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos899&show_icons=true&count_private=true&hide_border=true&title_color=596087&icon_color=596087&text_color=ffffff&bg_color=0d1117" alt="Jean Carlos Github Stats" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos899&layout=compact&hide_border=true&title_color=596087&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeanCarlos899&bg_color=0d1117&color=ffffff&line=596087&point=596087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
