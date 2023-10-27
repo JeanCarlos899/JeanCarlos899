@@ -4,7 +4,7 @@
 
 > Technician in Internet Computing - IFPI
 
-🔭 Currently studying mobile development with Flutter
+🔭 Currently working as a mobile developer with Flutter
 
 ----
 
