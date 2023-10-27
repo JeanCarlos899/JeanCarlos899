@@ -14,7 +14,7 @@
 
 ## 🚀 Technologies
 
-[![My Skills](https://skills.thijs.gg/icons?i=dart,flutter,python,django,js,java,c,linux,git,html,css,bootstrap,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=dart,flutter,python,django,js,html,css,bootstrap,java,c,linux,git,vscode)](https://skills.thijs.gg)
 
 ----
 
