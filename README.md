@@ -38,9 +38,6 @@
 [![wakatime](https://wakatime.com/badge/user/e8d6bcdb-f00a-492e-b7a5-96c6224ccf8a.svg)](https://wakatime.com/@e8d6bcdb-f00a-492e-b7a5-96c6224ccf8a)
 <img src="https://komarev.com/ghpvc/?username=JeanCarlos899&label=Profile%20Views&color=6E92D2&style=flat" alt="Profile Views Counter">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=e8d6bcdb-f00a-492e-b7a5-96c6224ccf8a&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=6E92D2&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
-</div>
 
 ---
 
