@@ -43,10 +43,9 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos899&show_icons=true&count_private=true&hide_border=true&title_color=6E92D2&icon_color=6E92D2&text_color=ffffff&bg_color=0d1117" alt="Jean Carlos Github Stats" />
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos899&layout=compact&hide_border=true&title_color=6E92D2&text_color=ffffff&bg_color=0d1117" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=JeanCarlos899&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JeanCarlos899&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos899&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
